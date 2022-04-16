@@ -1,1 +1,1 @@
-My first readme
+echo My_fisrt_readme
